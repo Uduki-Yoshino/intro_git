@@ -3,3 +3,4 @@ commitは他のメンバーに何を変更したかすぐに伝わるように�
 基本的ワークフローを学びます。
 ・git add
 ・git commit
+・git rm
